@@ -4,7 +4,7 @@ Welcome to my page!
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTMl,css,javascript,python
 - 😄 Pronouns: coder
-  🔗 Find Me Elsewhere:
+- 🔗 Find Me Elsewhere:
 * LinkedIn
 * Twitter
 * Personal Website
