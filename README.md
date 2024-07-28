@@ -1,9 +1,13 @@
-Welcome to my page
-- 👋 Hi, I’m @Nargis7
+Welcome to my page!
+
+- 👋 Hey there, I’m Nargis perween
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTMl,css,javascript,python
 - 😄 Pronouns: coder
-  Author:Nargis perween
+  🔗 Find Me Elsewhere:
+* LinkedIn
+* Twitter
+* Personal Website
 
 <!---
 Nargis7/Nargis7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
