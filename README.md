@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/@nargisparween07" target="blank"><img src="https://img.shields.io/twitter/follow/@nargisparween07?logo=twitter&style=for-the-badge" alt="@nargisparween07" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, JAVA**
-
+- 
 - 💬 Ask me about **Coding**
-
+- 
 - 📫 How to reach me **ronaldonargis786@gmail.com**
 
 - ⚡ Fun fact **I think I am not funny**
