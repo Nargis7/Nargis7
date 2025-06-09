@@ -1,6 +1,7 @@
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <br><br>Hi there! I'm Nargis 👋  <br>I'm a B.Tech Computer Science student passionate about building real-world solutions using code.<br><br>- 💻 I'm currently learning **Data Structures & Algorithms in Java**<br>- 🌐 I'm working on my **personal portfolio website** using HTML, CSS, JavaScript<br><br>- 🚀 My goal is to become a **Full Stack Developer** and get placed in a top product-based company<br><br><br>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nargis-perween-511bab27b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nargisparween07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nargisperween919@gmail.com) 
