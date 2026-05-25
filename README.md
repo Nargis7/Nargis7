@@ -1,16 +1,13 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
-### 👋 Hi there! I'm Nargis
+👋 Hi there! I'm Nargis
 
 Final-year B.Tech Computer Science student at ARKA JAIN University (CGPA: 8.77) from Jamshedpur, India.
 
 I build things for the web — full-stack apps, AI-powered tools, and clean responsive UIs.  
 Currently grinding DSA and preparing for SDE placements at product-based companies.
 
-**What I work with:**  
-`Java` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `SQL` `HTML/CSS` `Python` `TensorFlow` `Git` `REST APIs` `DSA`
-
-🎯 Open to SDE opportunities &nbsp;·&nbsp; 📍 Jamshedpur, India &nbsp;·&nbsp; 🏆 HackHorizon Top 4 / 150+ teams
+🎯 Open to SDE opportunities &nbsp;·&nbsp; 📍 Jamshedpur, India &nbsp;·&nbsp; 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nargis-perween-511bab27b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nargisparween07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nargisperween919@gmail.com) 
