@@ -1,13 +1,10 @@
 # 💫 About Me:
-https://i.pinimg.com/736x/65/0c/35/650c357530afa52f551dfe02e86fe222.jpg
-👋 Hi there! I'm Nargis
+<img width="1920" height="1080" alt="image" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" />🎓 Final-year CS student @ ARKA JAIN University · CGPA: 8.77 · Jamshedpur, India
 
-Final-year B.Tech Computer Science student at ARKA JAIN University (CGPA: 8.77) from Jamshedpur, India.
+> *Turning coffee and Stack Overflow into working code since 2023* ☕
 
-I build things for the web — MERN stack projects, AI-powered tools, and clean responsive UIs.  
-Currently grinding DSA and preparing for SDE placements at product-based companies.
-
-🎯 Open to SDE opportunities &nbsp;·&nbsp; 📍 Jamshedpur, India &nbsp;·&nbsp; 
+I love building things for the web using the **MERN stack**, integrating **AI APIs**, and writing clean UI that doesn't hurt your eyes.  
+Currently in grind mode — DSA by day, debugging by night 🌙
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nargis-perween-511bab27b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nargisparween07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nargisperween919@gmail.com) 
