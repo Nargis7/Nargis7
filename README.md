@@ -1,10 +1,28 @@
 # 💫 About Me:
-<img width="1000" height="1000" alt="image" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" />🎓 Final-year CS student @ ARKA JAIN University · CGPA: 8.77 · Jamshedpur, India
+
+<table>
+<tr>
+
+<td width="60%">
+
+🎓 Final-year CS student @ ARKA JAIN University · CGPA: 8.77 · Jamshedpur, India
 
 > *Turning coffee and Stack Overflow into working code since 2023* ☕
 
 I love building things for the web using the **MERN stack**, integrating **AI APIs**, and writing clean UI that doesn't hurt your eyes.  
+
 Currently in grind mode — DSA by day, debugging by night 🌙
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" width="260" height="260"/>
+
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nargis-perween-511bab27b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@nargisparween07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nargisperween919@gmail.com) 
