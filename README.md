@@ -4,7 +4,7 @@
 
 Final-year B.Tech Computer Science student at ARKA JAIN University (CGPA: 8.77) from Jamshedpur, India.
 
-I build things for the web — full-stack apps, AI-powered tools, and clean responsive UIs.  
+I build things for the web — MERN stack projects, AI-powered tools, and clean responsive UIs.  
 Currently grinding DSA and preparing for SDE placements at product-based companies.
 
 🎯 Open to SDE opportunities &nbsp;·&nbsp; 📍 Jamshedpur, India &nbsp;·&nbsp; 
