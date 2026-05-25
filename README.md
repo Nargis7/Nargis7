@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+https://i.pinimg.com/736x/65/0c/35/650c357530afa52f551dfe02e86fe222.jpg
 👋 Hi there! I'm Nargis
 
 Final-year B.Tech Computer Science student at ARKA JAIN University (CGPA: 8.77) from Jamshedpur, India.
