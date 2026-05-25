@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img width="1920" height="1080" alt="image" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" />🎓 Final-year CS student @ ARKA JAIN University · CGPA: 8.77 · Jamshedpur, India
+<img width="100" height="100" alt="image" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" />🎓 Final-year CS student @ ARKA JAIN University · CGPA: 8.77 · Jamshedpur, India
 
 > *Turning coffee and Stack Overflow into working code since 2023* ☕
 
